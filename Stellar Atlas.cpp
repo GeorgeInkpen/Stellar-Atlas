@@ -1,5 +1,5 @@
 // Stellar Atlas.cpp 
-// G. Inkpen 2007-8
+// G. Inkpen 2007-8 2022
 
 // Include the header files
 #include "D:\George\My Documents\UCE\Stellar Atlas\Stellar Atlas\Stellar Atlas.h"
