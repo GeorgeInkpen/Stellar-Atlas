@@ -1,7 +1,7 @@
 // Stellar Atlas.cpp 
-// G. Inkpen 2007-8
+// G. Inkpen 2007-8 
 
-// Include the header files
+// Include all the header files
 #include "D:\George\My Documents\UCE\Stellar Atlas\Stellar Atlas\Stellar Atlas.h"
 
 // Main program
